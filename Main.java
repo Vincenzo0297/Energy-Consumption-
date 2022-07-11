@@ -232,7 +232,3 @@ public class Main {
 	    }while(exit != 4);
 	}
 }
-	
-
-
-
